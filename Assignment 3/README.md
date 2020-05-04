@@ -1,4 +1,4 @@
-Chatting application using end to end encryption of messages
+Simple chatting program with server and client.
 
 How to run: To run the chatting app, two different terminals are opened and one of them acts as server and the other as client. Message is given as input in the first terminal and it transfers to the second terminal.
 
